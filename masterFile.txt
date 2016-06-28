@@ -1,0 +1,20 @@
+22.11 88.14 DiamondHarbour 5
+22.40 88.22 Kolkata 6 5
+22.63 87.60 Arambagh 0 3
+22.30 87.20 Kharagpur 4 2
+23.26 87.70 Bardwan 6 4
+23.14 87.07 Bankura 0 1
+22.65 88.40 Hawrah 8 3
+23.14 88.29 Santipur 0 6
+23.35 88.10 Nabadwip 2 8
+23.66 88.00 Katowa 0 4
+23.42 86.90 Asansol 0 5
+23.60 87.10 Chittaranjan 1 3
+25.52 87.52 Raniganj 8 4
+25.14 88.47 Balurghat 0 2
+26.20 88.46 Jalpaiguri 2 4
+26.32 88.25 Siliguri 0 5
+26.10 89.23 Kochbihar 4 3
+26.30 89.35 Alipurduar 8 2
+26.50 89.35 Baksaduar 0 1
+27.03 88.18 Darjilling 7 4
