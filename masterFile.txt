@@ -1,4 +1,4 @@
-22.11 88.14 DiamondHarbour 5
+22.11 88.14 DiamondHarbour 5 3
 22.40 88.22 Kolkata 6 5
 22.63 87.60 Arambagh 0 3
 22.30 87.20 Kharagpur 4 2
